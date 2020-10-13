@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+.autogit
+.idea
+.vscode
+db.sqlite3
+venv
+>>>>>>> 706277d... added gitignore
